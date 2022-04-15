@@ -137,7 +137,7 @@ const getAllWaves = async () => {
         </div>
 
         <div className="bio">
-          I am Deepak and I am a Software Engineer? Connect your Ethereum wallet and wave at me!
+          I am Deepak and I am a Software Engineer. Connect your Ethereum wallet and wave at me!
         </div>
 
         <button className="waveButton" onClick={wave}>
