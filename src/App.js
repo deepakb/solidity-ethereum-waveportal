@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useState} from "react";
 import { ethers } from "ethers";
 import './App.css';
 import abi from './utils/WavePortal.json';
